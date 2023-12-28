@@ -44,24 +44,29 @@ Program to design a half adder and full adder circuit and verify its truth table
 ![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/4d0b8b42-9d87-48f1-a24e-c645f61e0a54)
 
 ### 1.program to design a full adder:
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/6bf3e2e7-f37e-4adf-954d-92575ea498c4)
 
 ### Output:
 ### RTL realization:
 ### HALF ADDER:
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/15ddef19-b2da-4857-a648-c75eeb573de9)
+
 ### FULL ADDER:
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/5d5c4fe2-ebb5-406a-a53c-f569577aa1f7)
+
 ### TIMING DIAGRAM
 ### HALF ADDER:
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/a5d270be-d687-47e8-ab66-550a89eee50c)
+
 ### FULL ADDER:
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/90936974-8ba6-461f-870f-f171311439cb)
 
 ### TRUTH TABLE:
 ### HALF ADDER:
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/e4f4cdb5-006a-4c99-b167-bdc350bfc145)
+
 ### FULL ADDER
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/672e5cc5-8b0f-4d36-aad8-2ef28bed595b)
+
 ### Result:
 Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
