@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -34,21 +34,33 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
+### Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+## Developed by: Harini.N
+## RegisterNumber:212223050019  
+*
+### 1.program to design a half adder:
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+### 1.program to design a full adder:
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
 
 ### Output:
-### RTL
+### RTL realization:
+### HALF ADDER:
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+### FULL ADDER:
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
 ### TIMING DIAGRAM
+### HALF ADDER:
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+### FULL ADDER:
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
 
-
-### TRUTH TABLE 
-
+### TRUTH TABLE:
+### HALF ADDER:
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+### FULL ADDER
+https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
