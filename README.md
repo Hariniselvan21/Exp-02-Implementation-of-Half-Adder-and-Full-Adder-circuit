@@ -41,7 +41,8 @@ Program to design a half adder and full adder circuit and verify its truth table
 ## RegisterNumber:212223050019  
 *
 ### 1.program to design a half adder:
-https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
+![image](https://github.com/Hariniselvan21/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/155089072/4d0b8b42-9d87-48f1-a24e-c645f61e0a54)
+
 ### 1.program to design a full adder:
 https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-.git
 
